@@ -45,8 +45,8 @@ Dr. Mohamed Shalan
 
 # Demo
 
-* We have developed a tank water level system that monitors the water level successfully, sending out temperature reuslt results to be displayed on the mobile applicationg using the bluetooth module. 
-* 
+* We got temperature from the DS18B20 successfully, sending out the temperature results using the bluetooth module to be displayed on the mobile application. The mobile application we used for now is Bluetooth serial terminal app for demo purposes.![image](https://user-images.githubusercontent.com/75340968/140609625-26fcebae-ed19-46fc-b411-26808078f82c.png)
+
 https://user-images.githubusercontent.com/68485300/140608216-7979026c-f1e6-4787-bb3b-11210b04b50e.mp4
 
 # References
