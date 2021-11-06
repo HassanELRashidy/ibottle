@@ -67,10 +67,10 @@ static void MX_USART2_UART_Init(void);
 /* USER CODE BEGIN 0 */
 
 
-// void delay (uint16_t time)
+//	void delay (uint16_t time)
 //{
-// __HAL_TIM_SET_COUNTER(&htim6, 0);
-// while ((__HAL_TIM_GET_COUNTER(&htim6))<time);
+//	__HAL_TIM_SET_COUNTER(&htim6, 0);
+//	while ((__HAL_TIM_GET_COUNTER(&htim6))<time);
 
 //}
 
@@ -244,14 +244,14 @@ char out[4]; //size of the number
     sprintf(out, "%g", T1);
 HAL_UART_Transmit(&huart2, (uint8_t*)out, 4,200);
 //HAL_UART_Transmit(&huart2, ("Mariam"), sizeof("Mariam"),200);
-// HAL_UART_Transmit(&huart2, (uint8_t*)out, sizeof(out),200);
+//	HAL_UART_Transmit(&huart2, (uint8_t*)out, sizeof(out),200);
 HAL_UART_Transmit(&huart2, ("\n"), 1,200);
-// HAL_UART_Transmit(&huart2, ("\r"), sizeof("\r"),200);
+//	HAL_UART_Transmit(&huart2, ("\r"), sizeof("\r"),200);
 //sprintf(msg, "Temp : %5.2f", T1);
 HAL_Delay(100);
-// uint8_t send = (uint8_t) T1;
+//	uint8_t send = (uint8_t) T1;
 
-// sprintf(msg, "Temp : %5.2f", T1);
+//	sprintf(msg, "Temp : %5.2f", T1);
      
     /* USER CODE BEGIN 3 */
   }
