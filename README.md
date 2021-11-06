@@ -5,8 +5,8 @@ A smart water bottle that satisfies the needs of a variety of groups, including 
 * Hassan El Rashidy - https://github.com/HassanELRashidy
 * Mariam Farghaly - https://github.com/Mariamfarghaly99
 * Mohamed Hassan
-* Salma Wafa
-* Eman Ateya
+* Salma Wafa - https://github.com/SalmaWafa
+* Eman Ateya - https://github.com/Emannegm9
 * Mohamed El Shenawy
 
 ### Submitted to:
