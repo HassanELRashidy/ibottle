@@ -29,7 +29,7 @@ Dr. Mohamed Shalan
 * Bluetooth module
 
 ## Stm32cube configurations:
-
+{"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAEun4kTq2o","i":"9xXnTebVqQghwxIOCODSAQ","b":1636199032097,"A":[{"A?":"I","A":195.93593775660344,"B":81.12544379939663,"D":849.672759569641,"C":688.1281244867932,"a":{"B":{"A":{"A":"MAEuxosWHuw","B":1},"B":{"A":-23.93024589552266,"B":-54.23624597458752,"D":903.9090055442285,"C":752.3472236478397}}}}],"B":1920,"C":1080}
 ## Languages used:
 * C 
 
