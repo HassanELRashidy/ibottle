@@ -1,4 +1,5 @@
 # ibottle
+A smart water bottle that satisfies the needs of a variety of groups, including athletes that want to enhance performance, dieters that want to achieve their weight goals, as well as elderly in group homes or living alone that often suffer from dehydration.
 
 # Microcontroller
 STM32
