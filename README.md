@@ -51,4 +51,4 @@ Dr. Mohamed Shalan
 https://user-images.githubusercontent.com/68485300/140608216-7979026c-f1e6-4787-bb3b-11210b04b50e.mp4
 
 # References
-https://datasheetspdf.com/pdf/642267/DallasSemiconductor/18B20/1
+https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
